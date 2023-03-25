@@ -8,6 +8,9 @@
     "start": "node .",
     "test": "nodemon -e js,handlebars,html,css ."
   },
+  "engines": {
+    "node": "15.x"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
